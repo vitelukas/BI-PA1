@@ -1,0 +1,4 @@
+Matice:
+Symetrie podle horizontalni osy: ano
+Symetrie podle vertikalni osy: ano
+Symetrie podle stredu: ano
